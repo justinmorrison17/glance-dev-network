@@ -761,6 +761,7 @@ def _draw_empty(c):
     c.text_center(
         "ALL CLEAR",
         13,
+          font="6x8",
         color="white"
     )
 
